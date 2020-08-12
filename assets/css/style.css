@@ -1,0 +1,48 @@
+/* CSS do mod3-solution */
+
+body {
+	background-color: #000000;
+	color: #cccccc;
+}
+
+section {	
+}
+
+h2 {
+	margin: 25px 0px 25px 0px;
+}
+
+p {
+	text-align: justify;
+	margin-bottom: 20px;
+	padding: 5px;
+	background-color: #000099;	
+}
+
+#chicken h3 {
+	background-color: #999900;
+	margin-bottom: 0;
+}
+
+#beef h3 {
+	background-color: #990000;
+	margin-bottom: 0;
+}
+
+#sushi h3 {
+	background-color: #994d00;
+	margin-bottom: 0;
+}
+
+.bg-light {
+	background-color: #000099 !important;
+}
+
+.navbar-brand h1 {
+	color: #cccccc;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #cccccc;
+}
+
